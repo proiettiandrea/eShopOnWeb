@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 036ed3e7-4d1c-4290-b810-20ea90b365f9
-  WEBAPP-NAME: az400-webapp-ipnotia2023-webapp
+  WEBAPP-NAME: az400-webapp-ipnotia2023
 
 
 jobs:
